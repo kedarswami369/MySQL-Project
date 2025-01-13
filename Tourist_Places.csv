@@ -1,0 +1,6 @@
+Place_ID,Place_Name,State,Category,Entry_Fee,Opening_Hours,Closing_Hours,Best_Season,Average_Rating
+1,Taj Mahal,Uttar Pradesh,Historical,102,09:00 AM,06:00 PM,Winter,4.6
+2,Gateway of India,Maharashtra,Historical,270,09:00 AM,06:00 PM,Winter,4.5
+3,Red Fort,Delhi,Historical,188,09:00 AM,06:00 PM,Winter,4.2
+4,Charminar,Telangana,Historical,121,09:00 AM,06:00 PM,Winter,3.3
+5,Hawa Mahal,Rajasthan,Historical,330,09:00 AM,06:00 PM,Winter,3.9
